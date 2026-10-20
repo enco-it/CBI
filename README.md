@@ -4,7 +4,7 @@
 
 ## ОБИТИ на GitHub Pages
 
-Сайт: **https://enco-it.github.io/IT-OBITI/**
+Сайт: **https://enco-it.github.io/CBI/**
 
 Сейчас в настройках: **Deploy from a branch** → `main` → `/docs`.
 
